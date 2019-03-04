@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c0a12da-16a8-4a1f-969f-9de83d35c2bd" name="Default" comment="" />
+    <ignored path="reimsersoft.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="reimsersoft" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="controler.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/controler.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7813084">
+              <caret line="899" column="51" selection-start-line="899" selection-start-column="51" selection-end-line="899" selection-end-column="51" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#tr#0;n#!!top" expanded="true" />
+                <marker date="1452645073524" expanded="true" signature="196:294" placeholder="select cod_p... periodo" />
+                <marker date="1452645073524" expanded="true" signature="915:1010" placeholder="update conce... " />
+                <marker date="1452645073524" expanded="true" signature="1225:1298" placeholder="select * fro... cl002_tipotramite" />
+                <marker date="1452645073524" expanded="true" signature="1372:1620" placeholder="insert into cl002_tipotramite... " />
+                <marker date="1452645073524" expanded="true" signature="1696:1929" placeholder="update cl002... " />
+                <marker date="1452645073524" expanded="true" signature="1999:2022" placeholder="select last_... ${$xnsq}" />
+                <marker date="1452645073524" expanded="true" signature="2714:2884" placeholder="select c.nom... contribuyente" />
+                <marker date="1452645073524" expanded="true" signature="3264:3369" placeholder="select c.*, concepto" />
+                <marker date="1452645073524" expanded="true" signature="14797:14820" placeholder="select last_... ${$row['secuencia']}" />
+                <marker date="1452645073524" expanded="true" signature="15589:15658" placeholder="select * fro... cl001_prioridad" />
+                <marker date="1452645073524" expanded="true" signature="15983:16234" placeholder="insert into cl001_prioridad... " />
+                <marker date="1452645073524" expanded="true" signature="16332:16600" placeholder="update cl001... " />
+                <marker date="1452645073524" expanded="true" signature="17523:17546" placeholder="select last_... ${$row['secuencia']}" />
+                <marker date="1452645073524" expanded="true" signature="21121:21168" placeholder="select * fro... cl001_prioridad" />
+                <marker date="1452645073524" expanded="true" signature="24589:24613" placeholder="select * fro... tip_contri" />
+                <marker date="1452645073524" expanded="true" signature="25368:25420" placeholder="select * fro... cl002_tipotramite" />
+                <marker date="1452645073524" expanded="true" signature="26787:26841" placeholder="select cod_s... spartida" />
+                <marker date="1452645073524" expanded="true" signature="29238:29264" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="30086:31045" placeholder="select * fro... cod_spa" />
+                <marker date="1452645073524" expanded="true" signature="30101:31023" placeholder="select sp.co... spartida" />
+                <marker date="1452645073524" expanded="true" signature="30357:30965" placeholder="select coale... recb_deta_1" />
+                <marker date="1452645073524" expanded="true" signature="31172:31198" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="31818:31845" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="32383:32409" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="34461:34484" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="35518:35838" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="35527:35838" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="35559:35658" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="35665:35838" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="35705:35838" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="35728:35752" placeholder="select vut f... formulas" />
+                <marker date="1452645073524" expanded="true" signature="35988:36128" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="36023:36120" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="36135:36243" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="36170:36235" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="36209:36226" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="36443:36486" placeholder="update formu... " />
+                <marker date="1452645073524" expanded="true" signature="36692:36731" placeholder="select * fro... entidad" />
+                <marker date="1452645073524" expanded="true" signature="37090:37143" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="37459:37469" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="37470:39634" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="37503:39504" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="37549:37601" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="37644:39495" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="37656:39337" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="37666:38104" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="37700:38093" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="37720:38006" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="38114:38260" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="38270:38444" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="38454:38663" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="38491:38652" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="38610:38638" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="38673:38854" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="38864:39065" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="39075:39324" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="39113:39313" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="39373:39485" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="39548:39626" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="39583:39617" placeholder="..." />
+                <marker date="1452645073524" expanded="true" signature="39770:39828" placeholder="select * fro... entidad" />
+                <marker date="1452645073524" expanded="true" signature="40289:40368" placeholder="select * fro... banco" />
+                <marker date="1452645073524" expanded="true" signature="41289:41384" placeholder="select * fro... banco" />
+                <marker date="1452645073524" expanded="true" signature="41662:41728" placeholder="select * fro... banco" />
+                <marker date="1452645073524" expanded="true" signature="41806:42039" placeholder="insert into banco... " />
+                <marker date="1452645073524" expanded="true" signature="42122:42330" placeholder="update banco... " />
+                <marker date="1452645073524" expanded="true" signature="42651:42813" placeholder="select * fro... spartida" />
+                <marker date="1452645073524" expanded="true" signature="42890:43149" placeholder="insert into spartida... " />
+                <marker date="1452645073524" expanded="true" signature="43224:43451" placeholder="update spart... " />
+                <marker date="1452645073524" expanded="true" signature="45320:45497" placeholder="select cod_s... spartida" />
+                <marker date="1452645073524" expanded="true" signature="45832:45971" placeholder="select cod_s... spartida" />
+                <marker date="1452645073524" expanded="true" signature="48293:48344" placeholder="select * fro... concepto" />
+                <marker date="1452645073524" expanded="true" signature="48420:48997" placeholder="insert into concepto... " />
+                <marker date="1452645073524" expanded="true" signature="49081:49646" placeholder="update conce... " />
+                <marker date="1452645073524" expanded="true" signature="49956:50008" placeholder="select * fro... concepto" />
+                <marker date="1452645073524" expanded="true" signature="50551:50862" placeholder="select c.cod... concepto" />
+                <marker date="1452645073524" expanded="true" signature="53506:53616" placeholder="select cod_d... dpto" />
+                <marker date="1452645073524" expanded="true" signature="55221:55389" placeholder="select cod_s... spartida" />
+                <marker date="1452645073524" expanded="true" signature="56467:56553" placeholder="select cod_c... contribuyente" />
+                <marker date="1452645073524" expanded="true" signature="56934:57028" placeholder="select descr... cl002_tipotramite" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sub_menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/sub_menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.375">
+              <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="principal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/principal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.2">
+              <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="11.48">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+              <folding>
+                <marker date="1452546650520" expanded="true" signature="4811:4885" placeholder="select trim(... entidad" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validar_acceso.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/validar_acceso.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1426453032000" expanded="true" signature="69:161" placeholder="select * fro... usuario" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.4444444">
+              <caret line="2624" column="53" selection-start-line="2624" selection-start-column="52" selection-end-line="2624" selection-end-column="53" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.3">
+              <caret line="248" column="4" selection-start-line="248" selection-start-column="4" selection-end-line="248" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/template/sub_menu.php" />
+        <option value="$PROJECT_DIR$/js/bootstrap.js" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/principal.php" />
+        <option value="$PROJECT_DIR$/php/controler.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iconos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reimsersoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c0a12da-16a8-4a1f-969f-9de83d35c2bd" name="Default" comment="" />
+      <created>1435317125949</created>
+      <option name="number" value="Default" />
+      <updated>1435317125949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="743" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24560118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/php/controler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1537" column="13" selection-start-line="1537" selection-start-column="13" selection-end-line="1537" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#tr#0;n#!!top" expanded="true" />
+            <marker date="1452645073524" expanded="true" signature="196:294" placeholder="select cod_p... periodo" />
+            <marker date="1452645073524" expanded="true" signature="915:1010" placeholder="update conce... " />
+            <marker date="1452645073524" expanded="true" signature="1225:1298" placeholder="select * fro... cl002_tipotramite" />
+            <marker date="1452645073524" expanded="true" signature="1372:1620" placeholder="insert into cl002_tipotramite... " />
+            <marker date="1452645073524" expanded="true" signature="1696:1929" placeholder="update cl002... " />
+            <marker date="1452645073524" expanded="true" signature="1999:2022" placeholder="select last_... ${$xnsq}" />
+            <marker date="1452645073524" expanded="true" signature="2714:2884" placeholder="select c.nom... contribuyente" />
+            <marker date="1452645073524" expanded="true" signature="3264:3369" placeholder="select c.*, concepto" />
+            <marker date="1452645073524" expanded="true" signature="14797:14820" placeholder="select last_... ${$row['secuencia']}" />
+            <marker date="1452645073524" expanded="true" signature="15589:15658" placeholder="select * fro... cl001_prioridad" />
+            <marker date="1452645073524" expanded="true" signature="15983:16234" placeholder="insert into cl001_prioridad... " />
+            <marker date="1452645073524" expanded="true" signature="16332:16600" placeholder="update cl001... " />
+            <marker date="1452645073524" expanded="true" signature="17523:17546" placeholder="select last_... ${$row['secuencia']}" />
+            <marker date="1452645073524" expanded="true" signature="21121:21168" placeholder="select * fro... cl001_prioridad" />
+            <marker date="1452645073524" expanded="true" signature="24589:24613" placeholder="select * fro... tip_contri" />
+            <marker date="1452645073524" expanded="true" signature="25368:25420" placeholder="select * fro... cl002_tipotramite" />
+            <marker date="1452645073524" expanded="true" signature="26787:26841" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="29238:29264" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="30086:31045" placeholder="select * fro... cod_spa" />
+            <marker date="1452645073524" expanded="true" signature="30101:31023" placeholder="select sp.co... spartida" />
+            <marker date="1452645073524" expanded="true" signature="30357:30965" placeholder="select coale... recb_deta_1" />
+            <marker date="1452645073524" expanded="true" signature="31172:31198" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="31818:31845" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="32383:32409" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="34461:34484" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35518:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35527:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35559:35658" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35665:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35705:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35728:35752" placeholder="select vut f... formulas" />
+            <marker date="1452645073524" expanded="true" signature="35988:36128" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36023:36120" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36135:36243" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36170:36235" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36209:36226" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36443:36486" placeholder="update formu... " />
+            <marker date="1452645073524" expanded="true" signature="36692:36731" placeholder="select * fro... entidad" />
+            <marker date="1452645073524" expanded="true" signature="37090:37143" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37459:37469" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37470:39634" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37503:39504" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37549:37601" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37644:39495" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37656:39337" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37666:38104" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37700:38093" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37720:38006" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38114:38260" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38270:38444" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38454:38663" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38491:38652" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38610:38638" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38673:38854" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38864:39065" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39075:39324" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39113:39313" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39373:39485" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39548:39626" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39583:39617" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39770:39828" placeholder="select * fro... entidad" />
+            <marker date="1452645073524" expanded="true" signature="40289:40368" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41289:41384" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41662:41728" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41806:42039" placeholder="insert into banco... " />
+            <marker date="1452645073524" expanded="true" signature="42122:42330" placeholder="update banco... " />
+            <marker date="1452645073524" expanded="true" signature="42651:42813" placeholder="select * fro... spartida" />
+            <marker date="1452645073524" expanded="true" signature="42890:43149" placeholder="insert into spartida... " />
+            <marker date="1452645073524" expanded="true" signature="43224:43451" placeholder="update spart... " />
+            <marker date="1452645073524" expanded="true" signature="45320:45497" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="45832:45971" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="48293:48344" placeholder="select * fro... concepto" />
+            <marker date="1452645073524" expanded="true" signature="48420:48997" placeholder="insert into concepto... " />
+            <marker date="1452645073524" expanded="true" signature="49081:49646" placeholder="update conce... " />
+            <marker date="1452645073524" expanded="true" signature="49956:50008" placeholder="select * fro... concepto" />
+            <marker date="1452645073524" expanded="true" signature="50551:50862" placeholder="select c.cod... concepto" />
+            <marker date="1452645073524" expanded="true" signature="53506:53616" placeholder="select cod_d... dpto" />
+            <marker date="1452645073524" expanded="true" signature="55221:55389" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="56467:56553" placeholder="select cod_c... contribuyente" />
+            <marker date="1452645073524" expanded="true" signature="56934:57028" placeholder="select descr... cl002_tipotramite" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sub_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2951" column="21" selection-start-line="2951" selection-start-column="21" selection-end-line="2951" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1537" column="13" selection-start-line="1537" selection-start-column="13" selection-end-line="1537" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#tr#0;n#!!top" expanded="true" />
+            <marker date="1452645073524" expanded="true" signature="196:294" placeholder="select cod_p... periodo" />
+            <marker date="1452645073524" expanded="true" signature="915:1010" placeholder="update conce... " />
+            <marker date="1452645073524" expanded="true" signature="1225:1298" placeholder="select * fro... cl002_tipotramite" />
+            <marker date="1452645073524" expanded="true" signature="1372:1620" placeholder="insert into cl002_tipotramite... " />
+            <marker date="1452645073524" expanded="true" signature="1696:1929" placeholder="update cl002... " />
+            <marker date="1452645073524" expanded="true" signature="1999:2022" placeholder="select last_... ${$xnsq}" />
+            <marker date="1452645073524" expanded="true" signature="2714:2884" placeholder="select c.nom... contribuyente" />
+            <marker date="1452645073524" expanded="true" signature="3264:3369" placeholder="select c.*, concepto" />
+            <marker date="1452645073524" expanded="true" signature="14797:14820" placeholder="select last_... ${$row['secuencia']}" />
+            <marker date="1452645073524" expanded="true" signature="15589:15658" placeholder="select * fro... cl001_prioridad" />
+            <marker date="1452645073524" expanded="true" signature="15983:16234" placeholder="insert into cl001_prioridad... " />
+            <marker date="1452645073524" expanded="true" signature="16332:16600" placeholder="update cl001... " />
+            <marker date="1452645073524" expanded="true" signature="17523:17546" placeholder="select last_... ${$row['secuencia']}" />
+            <marker date="1452645073524" expanded="true" signature="21121:21168" placeholder="select * fro... cl001_prioridad" />
+            <marker date="1452645073524" expanded="true" signature="24589:24613" placeholder="select * fro... tip_contri" />
+            <marker date="1452645073524" expanded="true" signature="25368:25420" placeholder="select * fro... cl002_tipotramite" />
+            <marker date="1452645073524" expanded="true" signature="26787:26841" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="29238:29264" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="30086:31045" placeholder="select * fro... cod_spa" />
+            <marker date="1452645073524" expanded="true" signature="30101:31023" placeholder="select sp.co... spartida" />
+            <marker date="1452645073524" expanded="true" signature="30357:30965" placeholder="select coale... recb_deta_1" />
+            <marker date="1452645073524" expanded="true" signature="31172:31198" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="31818:31845" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="32383:32409" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="34461:34484" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35518:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35527:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35559:35658" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35665:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35705:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35728:35752" placeholder="select vut f... formulas" />
+            <marker date="1452645073524" expanded="true" signature="35988:36128" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36023:36120" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36135:36243" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36170:36235" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36209:36226" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36443:36486" placeholder="update formu... " />
+            <marker date="1452645073524" expanded="true" signature="36692:36731" placeholder="select * fro... entidad" />
+            <marker date="1452645073524" expanded="true" signature="37090:37143" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37459:37469" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37470:39634" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37503:39504" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37549:37601" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37644:39495" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37656:39337" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37666:38104" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37700:38093" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37720:38006" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38114:38260" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38270:38444" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38454:38663" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38491:38652" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38610:38638" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38673:38854" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38864:39065" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39075:39324" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39113:39313" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39373:39485" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39548:39626" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39583:39617" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39770:39828" placeholder="select * fro... entidad" />
+            <marker date="1452645073524" expanded="true" signature="40289:40368" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41289:41384" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41662:41728" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41806:42039" placeholder="insert into banco... " />
+            <marker date="1452645073524" expanded="true" signature="42122:42330" placeholder="update banco... " />
+            <marker date="1452645073524" expanded="true" signature="42651:42813" placeholder="select * fro... spartida" />
+            <marker date="1452645073524" expanded="true" signature="42890:43149" placeholder="insert into spartida... " />
+            <marker date="1452645073524" expanded="true" signature="43224:43451" placeholder="update spart... " />
+            <marker date="1452645073524" expanded="true" signature="45320:45497" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="45832:45971" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="48293:48344" placeholder="select * fro... concepto" />
+            <marker date="1452645073524" expanded="true" signature="48420:48997" placeholder="insert into concepto... " />
+            <marker date="1452645073524" expanded="true" signature="49081:49646" placeholder="update conce... " />
+            <marker date="1452645073524" expanded="true" signature="49956:50008" placeholder="select * fro... concepto" />
+            <marker date="1452645073524" expanded="true" signature="50551:50862" placeholder="select c.cod... concepto" />
+            <marker date="1452645073524" expanded="true" signature="53506:53616" placeholder="select cod_d... dpto" />
+            <marker date="1452645073524" expanded="true" signature="55221:55389" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="56467:56553" placeholder="select cod_c... contribuyente" />
+            <marker date="1452645073524" expanded="true" signature="56934:57028" placeholder="select descr... cl002_tipotramite" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sub_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2951" column="21" selection-start-line="2951" selection-start-column="21" selection-end-line="2951" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1537" column="13" selection-start-line="1537" selection-start-column="13" selection-end-line="1537" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#tr#0;n#!!top" expanded="true" />
+            <marker date="1452645073524" expanded="true" signature="196:294" placeholder="select cod_p... periodo" />
+            <marker date="1452645073524" expanded="true" signature="915:1010" placeholder="update conce... " />
+            <marker date="1452645073524" expanded="true" signature="1225:1298" placeholder="select * fro... cl002_tipotramite" />
+            <marker date="1452645073524" expanded="true" signature="1372:1620" placeholder="insert into cl002_tipotramite... " />
+            <marker date="1452645073524" expanded="true" signature="1696:1929" placeholder="update cl002... " />
+            <marker date="1452645073524" expanded="true" signature="1999:2022" placeholder="select last_... ${$xnsq}" />
+            <marker date="1452645073524" expanded="true" signature="2714:2884" placeholder="select c.nom... contribuyente" />
+            <marker date="1452645073524" expanded="true" signature="3264:3369" placeholder="select c.*, concepto" />
+            <marker date="1452645073524" expanded="true" signature="14797:14820" placeholder="select last_... ${$row['secuencia']}" />
+            <marker date="1452645073524" expanded="true" signature="15589:15658" placeholder="select * fro... cl001_prioridad" />
+            <marker date="1452645073524" expanded="true" signature="15983:16234" placeholder="insert into cl001_prioridad... " />
+            <marker date="1452645073524" expanded="true" signature="16332:16600" placeholder="update cl001... " />
+            <marker date="1452645073524" expanded="true" signature="17523:17546" placeholder="select last_... ${$row['secuencia']}" />
+            <marker date="1452645073524" expanded="true" signature="21121:21168" placeholder="select * fro... cl001_prioridad" />
+            <marker date="1452645073524" expanded="true" signature="24589:24613" placeholder="select * fro... tip_contri" />
+            <marker date="1452645073524" expanded="true" signature="25368:25420" placeholder="select * fro... cl002_tipotramite" />
+            <marker date="1452645073524" expanded="true" signature="26787:26841" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="29238:29264" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="30086:31045" placeholder="select * fro... cod_spa" />
+            <marker date="1452645073524" expanded="true" signature="30101:31023" placeholder="select sp.co... spartida" />
+            <marker date="1452645073524" expanded="true" signature="30357:30965" placeholder="select coale... recb_deta_1" />
+            <marker date="1452645073524" expanded="true" signature="31172:31198" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="31818:31845" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="32383:32409" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="34461:34484" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35518:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35527:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35559:35658" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35665:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35705:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35728:35752" placeholder="select vut f... formulas" />
+            <marker date="1452645073524" expanded="true" signature="35988:36128" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36023:36120" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36135:36243" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36170:36235" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36209:36226" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36443:36486" placeholder="update formu... " />
+            <marker date="1452645073524" expanded="true" signature="36692:36731" placeholder="select * fro... entidad" />
+            <marker date="1452645073524" expanded="true" signature="37090:37143" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37459:37469" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37470:39634" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37503:39504" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37549:37601" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37644:39495" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37656:39337" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37666:38104" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37700:38093" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37720:38006" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38114:38260" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38270:38444" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38454:38663" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38491:38652" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38610:38638" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38673:38854" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38864:39065" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39075:39324" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39113:39313" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39373:39485" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39548:39626" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39583:39617" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39770:39828" placeholder="select * fro... entidad" />
+            <marker date="1452645073524" expanded="true" signature="40289:40368" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41289:41384" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41662:41728" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41806:42039" placeholder="insert into banco... " />
+            <marker date="1452645073524" expanded="true" signature="42122:42330" placeholder="update banco... " />
+            <marker date="1452645073524" expanded="true" signature="42651:42813" placeholder="select * fro... spartida" />
+            <marker date="1452645073524" expanded="true" signature="42890:43149" placeholder="insert into spartida... " />
+            <marker date="1452645073524" expanded="true" signature="43224:43451" placeholder="update spart... " />
+            <marker date="1452645073524" expanded="true" signature="45320:45497" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="45832:45971" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="48293:48344" placeholder="select * fro... concepto" />
+            <marker date="1452645073524" expanded="true" signature="48420:48997" placeholder="insert into concepto... " />
+            <marker date="1452645073524" expanded="true" signature="49081:49646" placeholder="update conce... " />
+            <marker date="1452645073524" expanded="true" signature="49956:50008" placeholder="select * fro... concepto" />
+            <marker date="1452645073524" expanded="true" signature="50551:50862" placeholder="select c.cod... concepto" />
+            <marker date="1452645073524" expanded="true" signature="53506:53616" placeholder="select cod_d... dpto" />
+            <marker date="1452645073524" expanded="true" signature="55221:55389" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="56467:56553" placeholder="select cod_c... contribuyente" />
+            <marker date="1452645073524" expanded="true" signature="56934:57028" placeholder="select descr... cl002_tipotramite" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sub_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2951" column="21" selection-start-line="2951" selection-start-column="21" selection-end-line="2951" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#tr#0;n#!!top" expanded="true" />
+            <marker date="1452645073524" expanded="true" signature="196:294" placeholder="select cod_p... periodo" />
+            <marker date="1452645073524" expanded="true" signature="915:1010" placeholder="update conce... " />
+            <marker date="1452645073524" expanded="true" signature="1225:1298" placeholder="select * fro... cl002_tipotramite" />
+            <marker date="1452645073524" expanded="true" signature="1372:1620" placeholder="insert into cl002_tipotramite... " />
+            <marker date="1452645073524" expanded="true" signature="1696:1929" placeholder="update cl002... " />
+            <marker date="1452645073524" expanded="true" signature="1999:2022" placeholder="select last_... ${$xnsq}" />
+            <marker date="1452645073524" expanded="true" signature="2714:2884" placeholder="select c.nom... contribuyente" />
+            <marker date="1452645073524" expanded="true" signature="3264:3369" placeholder="select c.*, concepto" />
+            <marker date="1452645073524" expanded="true" signature="14797:14820" placeholder="select last_... ${$row['secuencia']}" />
+            <marker date="1452645073524" expanded="true" signature="15589:15658" placeholder="select * fro... cl001_prioridad" />
+            <marker date="1452645073524" expanded="true" signature="15983:16234" placeholder="insert into cl001_prioridad... " />
+            <marker date="1452645073524" expanded="true" signature="16332:16600" placeholder="update cl001... " />
+            <marker date="1452645073524" expanded="true" signature="17523:17546" placeholder="select last_... ${$row['secuencia']}" />
+            <marker date="1452645073524" expanded="true" signature="21121:21168" placeholder="select * fro... cl001_prioridad" />
+            <marker date="1452645073524" expanded="true" signature="24589:24613" placeholder="select * fro... tip_contri" />
+            <marker date="1452645073524" expanded="true" signature="25368:25420" placeholder="select * fro... cl002_tipotramite" />
+            <marker date="1452645073524" expanded="true" signature="26787:26841" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="29238:29264" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="30086:31045" placeholder="select * fro... cod_spa" />
+            <marker date="1452645073524" expanded="true" signature="30101:31023" placeholder="select sp.co... spartida" />
+            <marker date="1452645073524" expanded="true" signature="30357:30965" placeholder="select coale... recb_deta_1" />
+            <marker date="1452645073524" expanded="true" signature="31172:31198" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="31818:31845" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="32383:32409" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="34461:34484" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35518:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35527:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35559:35658" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35665:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35705:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35728:35752" placeholder="select vut f... formulas" />
+            <marker date="1452645073524" expanded="true" signature="35988:36128" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36023:36120" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36135:36243" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36170:36235" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36209:36226" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36443:36486" placeholder="update formu... " />
+            <marker date="1452645073524" expanded="true" signature="36692:36731" placeholder="select * fro... entidad" />
+            <marker date="1452645073524" expanded="true" signature="37090:37143" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37459:37469" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37470:39634" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37503:39504" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37549:37601" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37644:39495" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37656:39337" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37666:38104" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37700:38093" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37720:38006" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38114:38260" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38270:38444" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38454:38663" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38491:38652" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38610:38638" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38673:38854" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38864:39065" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39075:39324" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39113:39313" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39373:39485" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39548:39626" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39583:39617" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39770:39828" placeholder="select * fro... entidad" />
+            <marker date="1452645073524" expanded="true" signature="40289:40368" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41289:41384" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41662:41728" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41806:42039" placeholder="insert into banco... " />
+            <marker date="1452645073524" expanded="true" signature="42122:42330" placeholder="update banco... " />
+            <marker date="1452645073524" expanded="true" signature="42651:42813" placeholder="select * fro... spartida" />
+            <marker date="1452645073524" expanded="true" signature="42890:43149" placeholder="insert into spartida... " />
+            <marker date="1452645073524" expanded="true" signature="43224:43451" placeholder="update spart... " />
+            <marker date="1452645073524" expanded="true" signature="45320:45497" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="45832:45971" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="48293:48344" placeholder="select * fro... concepto" />
+            <marker date="1452645073524" expanded="true" signature="48420:48997" placeholder="insert into concepto... " />
+            <marker date="1452645073524" expanded="true" signature="49081:49646" placeholder="update conce... " />
+            <marker date="1452645073524" expanded="true" signature="49956:50008" placeholder="select * fro... concepto" />
+            <marker date="1452645073524" expanded="true" signature="50551:50862" placeholder="select c.cod... concepto" />
+            <marker date="1452645073524" expanded="true" signature="53506:53616" placeholder="select cod_d... dpto" />
+            <marker date="1452645073524" expanded="true" signature="55221:55389" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="56467:56553" placeholder="select cod_c... contribuyente" />
+            <marker date="1452645073524" expanded="true" signature="56934:57028" placeholder="select descr... cl002_tipotramite" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2951" column="21" selection-start-line="2951" selection-start-column="21" selection-end-line="2951" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/menu_p.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3">
+          <caret line="248" column="4" selection-start-line="248" selection-start-column="4" selection-end-line="248" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sub_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/principal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4444444">
+          <caret line="2624" column="53" selection-start-line="2624" selection-start-column="52" selection-end-line="2624" selection-end-column="53" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="11.48">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <marker date="1452546650520" expanded="true" signature="4811:4885" placeholder="select trim(... entidad" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/validar_acceso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1426453032000" expanded="true" signature="69:161" placeholder="select * fro... usuario" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7813084">
+          <caret line="899" column="51" selection-start-line="899" selection-start-column="51" selection-end-line="899" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#tr#0;n#!!top" expanded="true" />
+            <marker date="1452645073524" expanded="true" signature="196:294" placeholder="select cod_p... periodo" />
+            <marker date="1452645073524" expanded="true" signature="915:1010" placeholder="update conce... " />
+            <marker date="1452645073524" expanded="true" signature="1225:1298" placeholder="select * fro... cl002_tipotramite" />
+            <marker date="1452645073524" expanded="true" signature="1372:1620" placeholder="insert into cl002_tipotramite... " />
+            <marker date="1452645073524" expanded="true" signature="1696:1929" placeholder="update cl002... " />
+            <marker date="1452645073524" expanded="true" signature="1999:2022" placeholder="select last_... ${$xnsq}" />
+            <marker date="1452645073524" expanded="true" signature="2714:2884" placeholder="select c.nom... contribuyente" />
+            <marker date="1452645073524" expanded="true" signature="3264:3369" placeholder="select c.*, concepto" />
+            <marker date="1452645073524" expanded="true" signature="14797:14820" placeholder="select last_... ${$row['secuencia']}" />
+            <marker date="1452645073524" expanded="true" signature="15589:15658" placeholder="select * fro... cl001_prioridad" />
+            <marker date="1452645073524" expanded="true" signature="15983:16234" placeholder="insert into cl001_prioridad... " />
+            <marker date="1452645073524" expanded="true" signature="16332:16600" placeholder="update cl001... " />
+            <marker date="1452645073524" expanded="true" signature="17523:17546" placeholder="select last_... ${$row['secuencia']}" />
+            <marker date="1452645073524" expanded="true" signature="21121:21168" placeholder="select * fro... cl001_prioridad" />
+            <marker date="1452645073524" expanded="true" signature="24589:24613" placeholder="select * fro... tip_contri" />
+            <marker date="1452645073524" expanded="true" signature="25368:25420" placeholder="select * fro... cl002_tipotramite" />
+            <marker date="1452645073524" expanded="true" signature="26787:26841" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="29238:29264" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="30086:31045" placeholder="select * fro... cod_spa" />
+            <marker date="1452645073524" expanded="true" signature="30101:31023" placeholder="select sp.co... spartida" />
+            <marker date="1452645073524" expanded="true" signature="30357:30965" placeholder="select coale... recb_deta_1" />
+            <marker date="1452645073524" expanded="true" signature="31172:31198" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="31818:31845" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="32383:32409" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="34461:34484" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35518:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35527:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35559:35658" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35665:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35705:35838" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="35728:35752" placeholder="select vut f... formulas" />
+            <marker date="1452645073524" expanded="true" signature="35988:36128" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36023:36120" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36135:36243" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36170:36235" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36209:36226" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="36443:36486" placeholder="update formu... " />
+            <marker date="1452645073524" expanded="true" signature="36692:36731" placeholder="select * fro... entidad" />
+            <marker date="1452645073524" expanded="true" signature="37090:37143" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37459:37469" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37470:39634" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37503:39504" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37549:37601" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37644:39495" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37656:39337" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37666:38104" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37700:38093" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="37720:38006" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38114:38260" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38270:38444" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38454:38663" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38491:38652" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38610:38638" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38673:38854" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="38864:39065" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39075:39324" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39113:39313" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39373:39485" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39548:39626" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39583:39617" placeholder="..." />
+            <marker date="1452645073524" expanded="true" signature="39770:39828" placeholder="select * fro... entidad" />
+            <marker date="1452645073524" expanded="true" signature="40289:40368" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41289:41384" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41662:41728" placeholder="select * fro... banco" />
+            <marker date="1452645073524" expanded="true" signature="41806:42039" placeholder="insert into banco... " />
+            <marker date="1452645073524" expanded="true" signature="42122:42330" placeholder="update banco... " />
+            <marker date="1452645073524" expanded="true" signature="42651:42813" placeholder="select * fro... spartida" />
+            <marker date="1452645073524" expanded="true" signature="42890:43149" placeholder="insert into spartida... " />
+            <marker date="1452645073524" expanded="true" signature="43224:43451" placeholder="update spart... " />
+            <marker date="1452645073524" expanded="true" signature="45320:45497" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="45832:45971" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="48293:48344" placeholder="select * fro... concepto" />
+            <marker date="1452645073524" expanded="true" signature="48420:48997" placeholder="insert into concepto... " />
+            <marker date="1452645073524" expanded="true" signature="49081:49646" placeholder="update conce... " />
+            <marker date="1452645073524" expanded="true" signature="49956:50008" placeholder="select * fro... concepto" />
+            <marker date="1452645073524" expanded="true" signature="50551:50862" placeholder="select c.cod... concepto" />
+            <marker date="1452645073524" expanded="true" signature="53506:53616" placeholder="select cod_d... dpto" />
+            <marker date="1452645073524" expanded="true" signature="55221:55389" placeholder="select cod_s... spartida" />
+            <marker date="1452645073524" expanded="true" signature="56467:56553" placeholder="select cod_c... contribuyente" />
+            <marker date="1452645073524" expanded="true" signature="56934:57028" placeholder="select descr... cl002_tipotramite" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
