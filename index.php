@@ -175,7 +175,7 @@ if($_SESSION['cod_usu']<>''){
     	</table>
     </div>
     <p>&copy; 2016 <a href="http://www.palaciossystems.com">www.palaciossystems.com</a>
-	<br> Webmaster: TSU Jarry Palacios | <a href="mailto:jpalacios@palaciossystems.com">jpalacios@palaciossystems.com</a>
+	<br> Webmaster: Ing. Jarry Palacios | <a href="mailto:jpalacios@palaciossystems.com">jpalacios@palaciossystems.com</a>
 	</p>
     </center>
 

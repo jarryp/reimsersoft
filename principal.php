@@ -432,7 +432,7 @@ order by agno desc ";
         <!-- Fin de Linea de tabla para píe de pagina -->
 	</table>
 	<p>&copy; 2016 <a href="http://www.palaciossystems.com">www.palaciossystems.com</a>
-	<br> Webmaster: TSU Jarry Palacios | <a href="mailto:jpalacios@palaciossystems.com">jpalacios@palaciossystems.com</a>
+	<br> Webmaster: Ing. Jarry Palacios | <a href="mailto:jpalacios@palaciossystems.com">jpalacios@palaciossystems.com</a>
 	</p>
 	</center>
 	<br>
@@ -526,7 +526,7 @@ order by agno desc ";
 					</tr>
 					<tr>
 						<th>Responsable:</th>
-						<td>T. S. U. JARRY JESUS PALACIOS RIVAS</td>
+						<td>ING. JARRY JESUS PALACIOS RIVAS</td>
 					</tr>
 					<tr>
 						<th>Teléfono:</th>
